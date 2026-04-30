@@ -1,8 +1,8 @@
 # 👋 Renaud Meynadier
 
-## 📡 Développeur Full-Stack | Laravel · Angular · Next.js | Modernisation d'Applications Legacy
+## 📡 Développeur Full Stack • PHP/Laravel • Angular • Java/Spring • API REST
 
-Concepteur et développeur d'applications web spécialisé dans la **refonte et l'optimisation de systèmes existants**. Formé en Développement Web & Web Mobile (Bac+2) puis en Conception et Développement d'Applications (Bac+4) avec Human Booster.
+Développeur full stack orienté applications métier, modernisation de systèmes existants, API REST et optimisation des performances.
 
 Passionné par les projets techniques à fort impact métier, j'accompagne la transformation digitale d'applications legacy vers des architectures modernes et performantes.
 
