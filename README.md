@@ -4,7 +4,7 @@
 
 Développeur full stack orienté applications métier, modernisation de systèmes existants, API REST et optimisation des performances.
 
-Passionné par les projets techniques à fort impact métier, j'accompagne la transformation digitale d'applications legacy vers des architectures modernes et performantes.
+J’interviens sur des projets techniques à fort impact métier : modernisation d’applications legacy, conception d’API REST et optimisation des performances.
 
 ---
 
