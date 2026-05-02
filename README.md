@@ -4,164 +4,164 @@
 
 Développeur full stack orienté applications métier, modernisation de systèmes existants, API REST et optimisation des performances.
 
-J’interviens sur des projets techniques à fort impact métier : modernisation d’applications legacy, conception d’API REST et optimisation des performances.
+J’interviens sur des projets techniques à fort impact métier : refonte d’applications legacy, conception d’API REST, optimisation des performances et collaboration avec les équipes métier.
 
 ---
 
 ## 🚀 Actuellement
 
-🔹 **En recherche active** de nouvelles opportunités  
-🔹 Développement de projets web personnels et freelance  
-🔹 Spécialisation : Modernisation d'applications (Laravel/Angular), optimisation performances, refonte architecture
+🔹 **En recherche active** de nouvelles opportunités en CDI/CDD full stack  
+🔹 Développement de projets web personnels et projets autonomes  
+🔹 Spécialisation : modernisation d'applications, API REST, Laravel/Angular, Java/Spring et optimisation des performances
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Expérience professionnelle
 
-### 🏛️ **Développeur Fullstack** | URSSAF Auvergne
+### 🏛️ **Développeur Full Stack** | URSSAF Auvergne  
 **Juin 2025 - Novembre 2025** · Clermont-Ferrand · CDD
 
-- 🔧 Refonte et modernisation d'outils intranet en **Laravel / Angular**
-- ⚡ Optimisation du code legacy et des requêtes SQL complexes
-- 🚀 Mise en production sécurisée avec tests et validation métier
-- 🤝 Coordination technique entre équipes développement et directions métier
+- 🔧 Refonte complète d’applications legacy PHP vers **Laravel / Angular**
+- ⚡ Optimisation des performances : **-80% sur les temps de traitement**
+- 🚀 Conception d’API REST et d’une architecture modulaire
+- 🔐 Mise en place RBAC, exports CSV/PDF et traçabilité applicative
+- 🤝 Pilotage projet, documentation, reporting direction et collaboration métier
 
-**Stack :** Laravel 12, Angular 17+, PostgreSQL, API REST, Git
+**Stack :** Laravel, Angular, TypeScript, PostgreSQL, API REST, Git, Docker
 
 ---
 
-### 💻 **Technicien Support Informatique N2** | o2switch
+### 💻 **Technicien support informatique N2** | o2switch  
 **Mars 2025 - Avril 2025** · Aubière
 
-- 🛠️ Diagnostic technique et correction de bugs (WordPress, PrestaShop)
-- 📧 Résolution de tickets : DNS, domaines, SSL, bases de données (cPanel)
-- 💾 Restauration et réinstallation de sites web (JetBackup, Softaculous)
-- 👥 Support technique auprès de profils variés (débutants, e-commerçants, développeurs)
+- 🛠️ Diagnostic d’incidents applicatifs, DNS, SSL, CMS et bases MySQL
+- 💾 Restauration de sites et bases via JetBackup / cPanel
+- 🔍 Analyse de logs serveur et accompagnement technique utilisateurs
+- 🔐 Recommandation de bonnes pratiques de sécurité et de maintenance
 
-**Stack :** WordPress, cPanel, MySQL, DNS, Apache
+**Stack :** PHP, MySQL, DNS, SSL, CMS, cPanel, Linux
 
 ---
 
-### 🌐 **Développeur - Webmaster** | Projets Web Autonomes
+### 🌐 **Développeur Full Stack** | Projets autonomes  
 **Mars 2024 - Aujourd'hui**
 
-- 📊 Analyse et recueil des besoins clients, choix technologiques adaptés
-- 🎨 Création de sites vitrines et e-commerce avec optimisation SEO
-- 🚀 Déploiement, tests unitaires, suivi des performances d'hébergement
+- 📊 Analyse des besoins, choix techniques et conception de projets web
+- 🎨 Développement de sites vitrines et e-commerce : SEO, déploiement, intégration paiement
+- 🧩 Architecture full stack : Laravel / Symfony, Angular, API REST, authentification
+- 🤖 Veille et expérimentation d’outils IA pour améliorer productivité et qualité du code
 
-**Stack :** Next.js, React, Symfony, WordPress, Node.js
-
----
-
-### 🏢 **Consultant Développeur** | Syxperiane (Alternance)
-**Septembre 2022 - Février 2024** · Clermont-Ferrand
-
-- 🔄 Automatisation des flux de commandes et envoi d'e-mails (WIMS)
-- 📦 Optimisation ERP Cegid : développement Java, requêtes SQL avancées
-- 📝 Animation d'ateliers clients, rédaction de spécifications fonctionnelles détaillées
-- 🎓 Formation des consultants aux bases du développement et de l'ERP
-
-**Stack :** Java, Cegid ERP, SQL, Git
+**Stack :** Laravel, Symfony, Angular, React, Next.js, Node.js, API REST
 
 ---
 
-### 💡 **Concepteur Développeur d'Applications** | Almerys (Stage)
-**Mars 2022 - Mai 2022** · Clermont-Ferrand
+### 🏢 **Consultant Développeur** | Syxperiane  
+**Septembre 2022 - Février 2024** · Clermont-Ferrand · Alternance CDA
 
-- 🔄 Refonte et optimisation d'application Angular
-- ✅ Automatisation des tests (Jasmine), amélioration du pipeline CI/CD
-- 🧩 Création de composants pour librairie interne (équivalent Bootstrap)
-- 🏃 Participation aux sprints Agile et daily scrums
+- 🔄 Automatisation de flux métier : commandes, envoi d’e-mails et traitements via WIMS
+- 📦 Intégration ERP Cegid : développement Java, requêtes SQL et interfaces XLinks
+- 📝 Animation d’ateliers clients et rédaction de spécifications fonctionnelles
+- 🎓 Formation interne : montée en compétences de consultants sur Java / SQL
+
+**Stack :** Java, SQL, Cegid XRP, XLinks, Talend, Git
+
+---
+
+### 💡 **Concepteur Développeur d'Applications** | Almerys / Be-Ys Software  
+**Mars 2022 - Mai 2022** · Clermont-Ferrand · Stage
+
+- 🔄 Développement front-end Angular sur application métier
+- ✅ Refactoring de composants UI et correction d’anomalies
+- 🧪 Automatisation de tests Jasmine et amélioration du pipeline CI/CD
+- 🏃 Participation aux rituels Agile : sprints, daily, revues de code
 
 **Stack :** Angular, TypeScript, Jasmine, CI/CD, Git
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Stack technique
+
+### **Backend & API**
+PHP · Laravel · Symfony · Java · Spring Boot · Node.js · API REST
 
 ### **Frontend**
-JavaScript · TypeScript · Angular · React · Next.js · WordPress
+Angular · React · Next.js · TypeScript · JavaScript
 
-### **Backend**
-PHP (Symfony, Laravel) · Java (Spring Boot) · Node.js · Nest.js
+### **Bases de données**
+SQL · PostgreSQL · MySQL · MariaDB · SQL Server
 
-### **Base de données**
-SQL · MySQL · PostgreSQL · MariaDB
+### **DevOps & outils**
+Docker · Git · GitHub · GitLab CI/CD · GitHub Actions
 
-### **Méthodologies & Outils**
-Scrum · Agile · Git (GitHub, GitLab) · Jira · Mantis · Merise · UML
-
-### **API & Intégration**
-Développement et intégration API REST · Documentation API
-
-### **DevOps & Déploiement**
-CI/CD · Tests unitaires · Optimisation performances · cPanel · Apache
+### **Méthodologies**
+Scrum · Jira · UML · Merise · documentation technique · tests automatisés
 
 ### **Langues**
 🇬🇧 Anglais B2
 
 ---
 
-## 📂 Projets & Réalisations
+## 📂 Projets & réalisations
 
-### 🔹 **Beautés d'Hathor** | Next.js
-Refonte complète d'un site vitrine professionnel avec optimisation SEO et performances.
-
-**Stack :** Next.js, React, Tailwind CSS, Vercel
-
----
-
-### 🔹 **Application Gestion Pompiers** | Angular / Symfony
-Application web pour la gestion des interventions avec système d'authentification et API sécurisée.
-
-**Stack :** Angular, Symfony, API REST, MySQL
-
----
-
-### 🔹 **Bagni Plage** | Java Spring Boot / Angular
+### 🔹 **Bagni Plage** | Java Spring Boot / Angular  
 Application de gestion de réservations de plage avec back-office d'administration.
 
 **Stack :** Java Spring Boot, Angular, PostgreSQL, API REST
 
 ---
 
-### 🔹 **Nimes'Alerie** | Symfony / Angular
-Boutique e-commerce complète avec dashboard d'administration et gestion de commandes.
+### 🔹 **Dora Dashboard** | Angular / FastAPI  
+Dashboard de visualisation de métriques DORA : deployment frequency, lead time, change failure rate et time to restore.
 
-**Stack :** Symfony, Angular, MySQL, Stripe (paiement)
+**Stack :** Angular, FastAPI, Python, data visualization
 
 ---
 
-### 🔹 **Portfolios & Expérimentations**
-- Portfolio professionnel en ligne (Next.js)
-- Mini-applications avec APIs publiques
-- Exercices de développement (Angular, Spring Boot)
+### 🔹 **Nimes'Alerie** | Symfony / Angular  
+Boutique e-commerce complète avec dashboard d'administration et gestion de commandes.
 
-🛠️ **Projets progressivement mis à jour sur mes dépôts GitHub**
+**Stack :** Symfony, Angular, MySQL, Stripe
+
+---
+
+### 🔹 **Application Gestion Pompiers** | Angular / Symfony  
+Application web pour la gestion des interventions avec système d'authentification et API sécurisée.
+
+**Stack :** Angular, Symfony, API REST, MySQL
+
+---
+
+### 🔹 **Beautés d'Hathor** | Next.js  
+Refonte complète d'un site vitrine professionnel avec optimisation SEO et performances.
+
+**Stack :** Next.js, React, Tailwind CSS, Vercel
 
 ---
 
 ## 💻 Ce que je fais
 
-✅ **Développement Full-Stack** → Applications métiers, sites vitrines, e-commerce  
-✅ **Refonte & Modernisation** → Migration de systèmes legacy vers architectures modernes  
-✅ **Optimisation Performances** → Code, SQL, SEO, accessibilité  
-✅ **API & Intégration** → Développement, documentation, sécurisation  
-✅ **Gestion de projet** → De l'analyse des besoins à la mise en production
+✅ **Développement full stack** : applications métier, sites vitrines, e-commerce  
+✅ **Refonte & modernisation** : migration de systèmes legacy vers architectures modernes  
+✅ **Optimisation des performances** : code, SQL, API, ergonomie et déploiement  
+✅ **API & intégration** : développement, documentation et sécurisation  
+✅ **Collaboration métier** : analyse des besoins, spécifications et mise en production
 
 ---
 
-## 🎯 Recherche Active
+## 🎯 Recherche active
 
-Je suis **disponible à partir de fin novembre 2025** pour :
-- 💼 **CDI** en développement Full-Stack (Laravel/Angular, Next.js/React, Symfony)
-- 🏢 **Secteur public** ou **entreprises tech** (modernisation d'applications, projets à impact)
-- 📍 **Clermont-Ferrand** ou **télétravail partiel/complet**
+Je suis disponible pour des opportunités en **CDI/CDD full stack**, principalement sur des projets applicatifs à impact métier.
+
+**Cibles principales :**
+- Développement full stack PHP/Laravel, Angular, Java/Spring
+- Applications métier, API REST, refonte et modernisation de systèmes existants
+- Environnements techniques orientés qualité, performance et collaboration métier
+- Clermont-Ferrand, hybride ou télétravail selon opportunité
 
 **Spécialités :**
 - Refonte et modernisation d'applications legacy
-- Optimisation de performances (code, SQL, architecture)
-- Coordination technique entre équipes dev et métier
+- Optimisation de performances : code, SQL, API, architecture
+- Documentation technique et coordination entre équipes dev et métier
 
 ---
 
@@ -173,6 +173,6 @@ Je suis **disponible à partir de fin novembre 2025** pour :
 
 ---
 
-⚡ **Bonne visite et à bientôt sur mes dépôts GitHub !**
+⚡ **Bonne visite sur mes dépôts GitHub !**
 
-💡 *N'hésitez pas à me contacter pour une collaboration, un projet ou simplement échanger sur des sujets techniques.*
+💡 *Ouvert aux échanges autour du développement full stack, de la modernisation applicative et des projets techniques à impact métier.*
